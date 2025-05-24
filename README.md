@@ -1,2 +1,2 @@
-#nintendoplectrum.github.io
+# nintendoplectrum.github.io
 
